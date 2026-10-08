@@ -1,1 +1,1 @@
-# odin-recipes
+The goal is to create a webpage that includes a main index that links to multiple different recipes.
